@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/volodya/projects/testovoe/build",
+  "command": "/usr/bin/c++    -g -O0 -Wall -Wextra -Wpedantic -finput-charset=UTF-8 -fexec-charset=UTF-8 -std=gnu++17 -o CMakeFiles/testovoe.dir/main.cpp.o -c /home/volodya/projects/testovoe/main.cpp",
+  "file": "/home/volodya/projects/testovoe/main.cpp"
+},
+{
+  "directory": "/home/volodya/projects/testovoe/build",
+  "command": "/usr/bin/c++    -g -O0 -Wall -Wextra -Wpedantic -finput-charset=UTF-8 -fexec-charset=UTF-8 -std=gnu++17 -o CMakeFiles/testovoe.dir/BMP.cpp.o -c /home/volodya/projects/testovoe/BMP.cpp",
+  "file": "/home/volodya/projects/testovoe/BMP.cpp"
+}
+]

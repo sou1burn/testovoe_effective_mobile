@@ -1,0 +1,3 @@
+/home/volodya/projects/testovoe/build/CMakeFiles/testovoe.dir
+/home/volodya/projects/testovoe/build/CMakeFiles/edit_cache.dir
+/home/volodya/projects/testovoe/build/CMakeFiles/rebuild_cache.dir

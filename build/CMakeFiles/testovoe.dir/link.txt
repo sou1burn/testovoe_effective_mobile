@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -O0 -Wall -Wextra -Wpedantic -finput-charset=UTF-8 -fexec-charset=UTF-8 CMakeFiles/testovoe.dir/main.cpp.o CMakeFiles/testovoe.dir/BMP.cpp.o -o testovoe 
